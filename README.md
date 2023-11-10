@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hey-its-vishal&label=Profile%20views&color=0e75b6&style=flat" alt="hey-its-vishal" /> </p>
 
-- ⚡ Fun fact **I am funny**
+- 🧑‍🎓 Currently I am a 3rd year BCA student
 
 <h3 align="left"></h3>
 <p align="left">
