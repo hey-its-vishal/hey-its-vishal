@@ -1,6 +1,6 @@
 ![logo](https://github.com/hey-its-vishal/hey-its-vishal/blob/main/Vishal%20Gupta.png?raw=true)
 <h1 align="center">Hi 👋, I'm Vishal Gupta</h1>
-<h3 align="center">A passionate full stack developer plus expertise in python from India.</h3>
+<h3 align="center">A passionate Machine Learning using python and web developer expert  from India.</h3>
 <img align="right"alt="coding"width="400"src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
